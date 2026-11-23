@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+pet.log
+fault.log
+beat.txt
+now.png
+status.txt
+screen.png
+sheet.png
+art/
+snd/
+*.wav
+*.mp3
+*.ico
+python/
